@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogisticaCorralon.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fabbc7363c904c3e6edf9f5171deb022c4ee8f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2f2ec74d5d767b050698894d4616f473ed191d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogisticaCorralon.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogisticaCorralon.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

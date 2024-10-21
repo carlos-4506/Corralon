@@ -1,5 +1,11 @@
+using LogisticaCorralon.Managers.Managers;
+using LogisticaCorralon.Managers.ModelFactories;
+using Microsoft.AspNetCore.Mvc.Formatters;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddScoped<IProductoManager, ProductoManager>( _ => new ProductoManager(builder.Configuration["ConnectionStrings:DefaultConnection"]));
+builder.Services.AddScoped<IProductoModelFactory, ProductoModelFactory>();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

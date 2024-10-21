@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogisticaCorralon.Managers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8cd6325c65cfe26c6ee55ca18cd418e89c23a10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2f2ec74d5d767b050698894d4616f473ed191d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogisticaCorralon.Managers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogisticaCorralon.Managers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

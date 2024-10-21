@@ -15,6 +15,6 @@ namespace LogisticaCorralon.Managers.Entidades
         public int Cantidad { get; set; }
         public decimal Precio { get; set; }
         public string Estado { get; set; }
-        public int ProveedorId { get; set; }
+        public DateTime FechaAgregado { get; set; }
     }
 }

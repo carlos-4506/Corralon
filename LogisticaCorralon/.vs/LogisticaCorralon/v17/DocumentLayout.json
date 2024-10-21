@@ -1,10 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\Corralon\\LogisticaCorralon\\",
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|c:\\users\\usuario\\source\\repos\\corralon\\logisticacorralon\\logisticacorralon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|364ea108-3e13-4c33-b8fc-c0783ab3134dMSSQL__/azunlz2024_prog4_2c.database.windows.net/azunlz2024_prog4_2c/Grupo5Login/SqlView/Alter Grupo5.vista_productos_disponibles.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|c:\\users\\marti\\source\\repos\\carlos-4506\\corralon\\logisticacorralon\\logisticacorralon.managers\\managers\\productomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|solutionrelative:logisticacorralon.managers\\managers\\productomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\AppData\\Local\\Temp\\om03xano..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|c:\\users\\marti\\source\\repos\\carlos-4506\\corralon\\logisticacorralon\\logisticacorralon\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|solutionrelative:logisticacorralon\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|c:\\users\\marti\\source\\repos\\carlos-4506\\corralon\\logisticacorralon\\logisticacorralon\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|solutionrelative:logisticacorralon\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|c:\\users\\marti\\source\\repos\\carlos-4506\\corralon\\logisticacorralon\\logisticacorralon.managers\\modelfactories\\productomodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|solutionrelative:logisticacorralon.managers\\modelfactories\\productomodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|c:\\users\\marti\\source\\repos\\carlos-4506\\corralon\\logisticacorralon\\logisticacorralon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|solutionrelative:logisticacorralon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|c:\\users\\marti\\source\\repos\\carlos-4506\\corralon\\logisticacorralon\\logisticacorralon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|solutionrelative:logisticacorralon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|c:\\users\\marti\\source\\repos\\carlos-4506\\corralon\\logisticacorralon\\logisticacorralon.managers\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|solutionrelative:logisticacorralon.managers\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|c:\\users\\marti\\source\\repos\\carlos-4506\\corralon\\logisticacorralon\\logisticacorralon.managers\\modelfactories\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|solutionrelative:logisticacorralon.managers\\modelfactories\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|c:\\users\\marti\\source\\repos\\carlos-4506\\corralon\\logisticacorralon\\logisticacorralon.managers\\logisticacorralon.managers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|solutionrelative:logisticacorralon.managers\\logisticacorralon.managers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|c:\\users\\marti\\source\\repos\\carlos-4506\\corralon\\logisticacorralon\\logisticacorralon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{95062AB7-7C27-46C0-A2B0-FBA3882768E4}|LogisticaCorralon\\LogisticaCorralon.Web.csproj|solutionrelative:logisticacorralon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\AppData\\Local\\Temp\\om03xano..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\AppData\\Local\\Temp\\om03xano..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|364ea108-3e13-4c33-b8fc-c0783ab3134dMSSQL__/azunlz2024_prog4_2c.database.windows.net/azunlz2024_prog4_2c/Grupo5Login/SqlView/Alter Grupo5.vista_productos_disponibles.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +65,158 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Alter Grupo5.vista_productos_disponibles ",
+              "DocumentMoniker": "364ea108-3e13-4c33-b8fc-c0783ab3134dMSSQL__/azunlz2024_prog4_2c.database.windows.net/azunlz2024_prog4_2c/Grupo5Login/SqlView/Alter Grupo5.vista_productos_disponibles.sql",
+              "ToolTip": "Alter Grupo5.vista_productos_disponibles ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-21T22:45:05.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "LogisticaCorralon\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "LogisticaCorralon\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T22:40:41.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "LogisticaCorralon.Managers\\Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\Entidades\\Producto.cs",
+              "RelativeToolTip": "LogisticaCorralon.Managers\\Entidades\\Producto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:32:32.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\marti\\AppData\\Local\\Temp\\om03xano..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\om03xano..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-21T22:27:25.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Program.cs",
+              "RelativeDocumentMoniker": "LogisticaCorralon\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Program.cs",
+              "RelativeToolTip": "LogisticaCorralon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:17:05.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoModelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\ModelFactories\\ProductoModelFactory.cs",
+              "RelativeDocumentMoniker": "LogisticaCorralon.Managers\\ModelFactories\\ProductoModelFactory.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\ModelFactories\\ProductoModelFactory.cs",
+              "RelativeToolTip": "LogisticaCorralon.Managers\\ModelFactories\\ProductoModelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:14:25.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoManager.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\Managers\\ProductoManager.cs",
+              "RelativeDocumentMoniker": "LogisticaCorralon.Managers\\Managers\\ProductoManager.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\Managers\\ProductoManager.cs",
+              "RelativeToolTip": "LogisticaCorralon.Managers\\Managers\\ProductoManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwCsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:11:41.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\appsettings.json",
+              "RelativeDocumentMoniker": "LogisticaCorralon\\appsettings.json",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\appsettings.json",
+              "RelativeToolTip": "LogisticaCorralon\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T22:23:46.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "LogisticaCorralon\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "LogisticaCorralon\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:08:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoModel.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\ModelFactories\\ProductoModel.cs",
+              "RelativeDocumentMoniker": "LogisticaCorralon.Managers\\ModelFactories\\ProductoModel.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\ModelFactories\\ProductoModel.cs",
+              "RelativeToolTip": "LogisticaCorralon.Managers\\ModelFactories\\ProductoModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:15:19.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogisticaCorralon.Managers",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj",
+              "RelativeDocumentMoniker": "LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj",
+              "RelativeToolTip": "LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T22:13:44.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "LogisticaCorralon\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "LogisticaCorralon\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-21T04:05:11.889Z",
               "EditorCaption": ""

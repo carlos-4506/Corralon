@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LogisticaCorralon",
+    "\\LogisticaCorralon\\LogisticaCorralon",
+    "\\LogisticaCorralon\\LogisticaCorralon.Managers",
+    "\\LogisticaCorralon\\LogisticaCorralon\\Controllers"
   ],
+  "SelectedNode": "\\LogisticaCorralon\\LogisticaCorralon.sln",
   "PreviewInSolutionExplorer": false
 }

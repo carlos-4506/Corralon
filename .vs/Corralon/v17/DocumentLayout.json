@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\carlos\\source\\repos\\carlos-4506\\Corralon\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Controllers\\ProductosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogisticaCorralon\\LogisticaCorralon\\Controllers\\ProductosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "LogisticaCorralon\\LogisticaCorralon\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "LogisticaCorralon\\LogisticaCorralon\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:07:25.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogisticaCorralon.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj",
+              "RelativeDocumentMoniker": "LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj",
+              "RelativeToolTip": "LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T22:07:14.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogisticaCorralon.Web.csproj.user",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj.user",
+              "RelativeDocumentMoniker": "LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj.user",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj.user",
+              "RelativeToolTip": "LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-10-21T22:07:07.006Z",
+              "EditorCaption": ""
             }
           ]
         }

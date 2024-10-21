@@ -3,10 +3,16 @@ using LogisticaCorralon.Models;
 
 namespace LogisticaCorralon.Managers.ModelFactories
 {
-    public static class ProductoModelFactory
+    public interface IProductoModelFactory
+    {
+        Producto CrearProducto(ProductoModel productoModel);
+        ProductoModel CrearProductoModel(Producto producto);
+    }
+
+    public class ProductoModelFactory : IProductoModelFactory
     {
         // Convierte un Producto (lógica de negocio) a ProductoModel (modelo de vista)
-        public static ProductoModel CrearProductoModel(Producto producto)
+        public ProductoModel CrearProductoModel(Producto producto)
         {
             return new ProductoModel
             {
@@ -20,7 +26,7 @@ namespace LogisticaCorralon.Managers.ModelFactories
         }
 
         // Convierte un ProductoModel (modelo de vista) a Producto (lógica de negocio)
-        public static Producto CrearProducto(ProductoModel productoModel)
+        public Producto CrearProducto(ProductoModel productoModel)
         {
             return new Producto
             {

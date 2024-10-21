@@ -7,7 +7,16 @@ using System.Linq;
 
 namespace LogisticaCorralon.Managers.Managers
 {
-    public class ProductoManager
+    public interface IProductoManager
+    {
+        void ActualizarProducto(int id, Producto producto);
+        void CrearProducto(Producto producto);
+        void EliminarProducto(int id);
+        Producto ObtenerProductoPorId(int id);
+        IEnumerable<Producto> ObtenerProductos();
+    }
+
+    public class ProductoManager : IProductoManager
     {
         private readonly string connectionString;
 
@@ -20,7 +29,7 @@ namespace LogisticaCorralon.Managers.Managers
         {
             using (IDbConnection db = new SqlConnection(connectionString))
             {
-                return db.Query<Producto>("SELECT * FROM PRODUCTO").ToList();
+                return db.Query<Producto>("SELECT * FROM PRODUCTOs").ToList();
             }
         }
 

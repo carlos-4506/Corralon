@@ -1,17 +1,19 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using LogisticaCorralon.Managers.Managers.ProductoManager.cs;
-using LogisticaCorralon.Managers.ModelFactories;
 using LogisticaCorralon.Models;
+using LogisticaCorralon.Managers.Managers;
+using LogisticaCorralon.Managers.ModelFactories;
 
 namespace LogisticaCorralon.Controllers
 {
     public class ProductosController : Controller
     {
-        private readonly ProductoManager _productoManager;
+        private readonly IProductoManager _productoManager;
+        private readonly IProductoModelFactory _productoModelFactory;
 
-        public ProductosController(ProductoManager productoManager)
+        public ProductosController(IProductoManager productoManager, IProductoModelFactory productoModelFactory)
         {
             _productoManager = productoManager;
+            _productoModelFactory = productoModelFactory;
         }
 
         public IActionResult Index()
@@ -21,7 +23,7 @@ namespace LogisticaCorralon.Controllers
 
             foreach (var producto in productos)
             {
-                productoModels.Add(ProductoModelFactory.CrearProductoModel(producto));
+                productoModels.Add(_productoModelFactory.CrearProductoModel(producto));
             }
 
             return View(productoModels);
@@ -35,7 +37,7 @@ namespace LogisticaCorralon.Controllers
                 return NotFound();
             }
 
-            var productoModel = ProductoModelFactory.CrearProductoModel(producto);
+            var productoModel = _productoModelFactory.CrearProductoModel(producto);
             return View(productoModel);
         }
 
@@ -50,7 +52,7 @@ namespace LogisticaCorralon.Controllers
         {
             if (ModelState.IsValid)
             {
-                var producto = ProductoModelFactory.CrearProducto(productoModel);
+                var producto = _productoModelFactory.CrearProducto(productoModel);
                 _productoManager.CrearProducto(producto);
 
                 return RedirectToAction(nameof(Index));
@@ -67,7 +69,7 @@ namespace LogisticaCorralon.Controllers
                 return NotFound();
             }
 
-            var productoModel = ProductoModelFactory.CrearProductoModel(producto);
+            var productoModel = _productoModelFactory.CrearProductoModel(producto);
             return View(productoModel);
         }
 
@@ -82,7 +84,7 @@ namespace LogisticaCorralon.Controllers
 
             if (ModelState.IsValid)
             {
-                var producto = ProductoModelFactory.CrearProducto(productoModel);
+                var producto = _productoModelFactory.CrearProducto(productoModel);
                 _productoManager.ActualizarProducto(id, producto);
 
                 return RedirectToAction(nameof(Index));
@@ -99,7 +101,7 @@ namespace LogisticaCorralon.Controllers
                 return NotFound();
             }
 
-            var productoModel = ProductoModelFactory.CrearProductoModel(producto);
+            var productoModel = _productoModelFactory.CrearProductoModel(producto);
             return View(productoModel);
         }
 

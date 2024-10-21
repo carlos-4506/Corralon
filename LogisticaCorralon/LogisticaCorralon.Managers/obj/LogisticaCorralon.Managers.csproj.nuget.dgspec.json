@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj": {}
+    "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj": {
+    "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj",
         "projectName": "LogisticaCorralon.Managers",
-        "projectPath": "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj",
-        "packagesPath": "C:\\Users\\carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\obj\\",
+        "projectPath": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj",
+        "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marti\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj": {
-                "projectPath": "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -75,81 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj",
-        "projectName": "LogisticaCorralon.Web",
-        "projectPath": "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\LogisticaCorralon.Web.csproj",
-        "packagesPath": "C:\\Users\\carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos\\Source\\Repos\\carlos-4506\\Corralon\\LogisticaCorralon\\LogisticaCorralon\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.1.35, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.6, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
