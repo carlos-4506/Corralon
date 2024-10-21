@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Corralon/FileContentIndex
+/.vs/Corralon/FileContentIndex/2c4f405b-aec9-439f-a4c4-4f4d6aa9cc77.vsidx
+/.vs/Corralon/FileContentIndex
+/.vs/Corralon/FileContentIndex
+*.vsidx
+/.vs/slnx.sqlite
+/.gitignore
