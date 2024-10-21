@@ -1,4 +1,5 @@
 ﻿using LogisticaCorralon.Managers.Entidades;
+using LogisticaCorralon.Models;
 
 namespace LogisticaCorralon.Managers.ModelFactories
 {
@@ -9,7 +10,7 @@ namespace LogisticaCorralon.Managers.ModelFactories
         {
             return new ProductoModel
             {
-                Id = producto.Id,
+                Id = producto.IdProducto,
                 Nombre = producto.Nombre,
                 Descripcion = producto.Descripcion,
                 Cantidad = producto.Cantidad,
@@ -23,7 +24,7 @@ namespace LogisticaCorralon.Managers.ModelFactories
         {
             return new Producto
             {
-                Id = productoModel.Id,
+                IdProducto = productoModel.Id,
                 Nombre = productoModel.Nombre,
                 Descripcion = productoModel.Descripcion,
                 Cantidad = productoModel.Cantidad,
