@@ -9,12 +9,12 @@ namespace LogisticaCorralon.Managers.Entidades
 {
     public class Producto
     {
-        public int Id { get; set; }
+        public int IdProducto { get; set; }
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
         public int Cantidad { get; set; }
         public decimal Precio { get; set; }
         public string Estado { get; set; }
-        public DateTime FechaAgregado { get; set; } = DateTime.Now;
+        public int ProveedorId { get; set; }
     }
 }

@@ -20,7 +20,7 @@ namespace LogisticaCorralon.Managers.Managers
         {
             using (IDbConnection db = new SqlConnection(connectionString))
             {
-                return db.Query<Producto>("SELECT * FROM productos").ToList();
+                return db.Query<Producto>("SELECT * FROM PRODUCTO").ToList();
             }
         }
 
