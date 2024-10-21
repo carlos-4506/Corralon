@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LogisticaCorralon.Managers.Entidades
 
 {
-    internal class Producto
+    public class Producto
     {
         public int Id { get; set; }
         public string Nombre { get; set; }

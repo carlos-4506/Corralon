@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\carlos\\source\\repos\\carlos-4506\\Corralon\\LogisticaCorralon\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\Corralon\\LogisticaCorralon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|c:\\users\\usuario\\source\\repos\\corralon\\logisticacorralon\\logisticacorralon.managers\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BEDB03-2842-4251-9BB7-8B1738C59AC1}|LogisticaCorralon.Managers\\LogisticaCorralon.Managers.csproj|solutionrelative:logisticacorralon.managers\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "LogisticaCorralon.Managers\\Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Corralon\\LogisticaCorralon\\LogisticaCorralon.Managers\\Entidades\\Producto.cs",
+              "RelativeToolTip": "LogisticaCorralon.Managers\\Entidades\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:08:22.046Z",
+              "EditorCaption": ""
             }
           ]
         }
