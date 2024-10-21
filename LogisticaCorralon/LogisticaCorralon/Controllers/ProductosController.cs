@@ -2,7 +2,6 @@
 using LogisticaCorralon.Managers.Managers.ProductoManager.cs;
 using LogisticaCorralon.Managers.ModelFactories;
 using LogisticaCorralon.Models;
-using System.Collections.Generic;
 
 namespace LogisticaCorralon.Controllers
 {
